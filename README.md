@@ -6,6 +6,8 @@
 
 ##### _Dan Burbach, Katrina Hockman, Ngan Nguyen, Tavish OKeefe_
 
+# ![demo](src/assets/images/login.png , src/assets/images/firebase.png, src/assets/images/imagesearch.png, src/assets/images/feed.png)
+
 ## __Description__
 
   This site was designed so that users can choose specific media types to view - Text, Image, or Video; and share these with other users.
