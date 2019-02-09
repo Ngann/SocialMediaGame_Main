@@ -5,7 +5,9 @@
   _2/07/2019_
 
 ##### _Dan Burbach, Katrina Hockman, Ngan Nguyen, Tavish OKeefe_
-
+# ![demo](src/assets/images/login.png)
+# ![demo](src/assets/images/firebase.png)
+# ![demo](src/assets/images/imagesearch.png)
 # ![demo](src/assets/images/feed.png)
 
 ## __Description__
