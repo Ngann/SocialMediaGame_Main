@@ -6,7 +6,7 @@
 
 ##### _Dan Burbach, Katrina Hockman, Ngan Nguyen, Tavish OKeefe_
 
-# ![demo](src/assets/images/login.png , src/assets/images/firebase.png, src/assets/images/imagesearch.png, src/assets/images/feed.png)
+# ![demo](src/assets/images/feed.png)
 
 ## __Description__
 
