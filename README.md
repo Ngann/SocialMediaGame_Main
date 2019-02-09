@@ -4,7 +4,7 @@
 ### _Social Media website using Angular/Typescript_
   _2/07/2019_
 
-##### _Dan Burbach, Katrina Hockman, Ngan Ngyuen, Tavish OKeefe_
+##### _Dan Burbach, Katrina Hockman, Ngan Nguyen, Tavish OKeefe_
 
 ## __Description__
 
