@@ -25,4 +25,8 @@ export class FeedComponent implements OnInit{
     this.images = this.imageFBService.getImages();
     this.videos = this.videoFBService.getVideos();
   }
+
+  showComment(){
+    alert("clicked");
+  }
 }

@@ -28,7 +28,7 @@
       <h3 class="title"><em>{{video.title}}</em></h3>
       <iframe width="650" height="400" [src]="video.url | safe"></iframe>
       <div class="group">
-        <button type="button" id="comment" class="btn btn-light" name="button">Comment</button>
+        <button type="button" id="comment" class="btn btn-light" name="button" (click)="showComment()">Comment</button>
         <button class="btn" id="green"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span></button>
         <button class="btn" id="red"><span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span></button>
       </div>

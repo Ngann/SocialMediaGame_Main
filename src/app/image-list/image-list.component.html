@@ -3,7 +3,7 @@
     <div class="box">
       <img src = {{image.webformatURL}}/>
       <h2>{{image.tags}}</h2>
-      <button (click)="saveImage(image.webformatURL, image.tags); image.webformatURL=''; image.tags='Your photo has been saved and posted!'">Save Image</button>
+      <button (click)="saveImage(image.webformatURL, image.tags); image.webformatURL=''; image.tags='Your photo has been saved and posted!'">Post Image</button>
     </div>
   </div>
   <div *ngIf="childImages.total === 0">

@@ -5,7 +5,7 @@
           <li><a class="navbar-brand" routerLink="app-private/texts">Texts</a></li>
           <li><a class="navbar-brand" routerLink="app-private/images">Images</a></li>
           <li><a class="navbar-brand" routerLink="app-private/videos">Videos</a></li>
-          <li><a (click)="logout()" id="log-out" routerLink="">Log out</a></li>
+          <li><a (click)="logout()" id="log-out" routerLink="">{{userName}} | Log out</a></li>
       </ul>
     </div>
   <router-outlet></router-outlet>
